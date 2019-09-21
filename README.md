@@ -1,6 +1,6 @@
 # clojure-for-the-braves
 
-Repo created for test and implement concepts from a functional programming and Clojure.
+repo created for test and implement concepts from a functional programming and Clojure.
 
 ## Lein
 
@@ -11,3 +11,9 @@ Repo created for test and implement concepts from a functional programming and C
 run inside the project
 
     $ lein run
+
+## Next steps
+
+  * create the utils namespace
+  * create the logic namespace
+  * create the "language switch" with defmulti and defmethod 
