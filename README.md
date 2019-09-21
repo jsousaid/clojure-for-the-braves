@@ -1,36 +1,13 @@
 # clojure-for-the-braves
 
-FIXME: description
+Repo created for test and implement concepts from a functional programming and Clojure.
 
-## Installation
+## Lein
 
-Download from http://example.com/FIXME.
+[lein](https://leiningen.org/) is required for this usage.
 
 ## Usage
 
-FIXME: explanation
+run inside the project
 
-    $ java -jar clojure-for-the-braves-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2019 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+    $ lein run
