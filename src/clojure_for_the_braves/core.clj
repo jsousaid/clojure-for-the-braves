@@ -10,9 +10,8 @@
 (def amount-for-sum (atom 0))
 
 (defn -main
-  "I don't do a whole lot ... yet."
   [& args]
-  (println "Hello, World!")
+  (println "Hello!")
   (let [user-name (get-user-name)
         user-age (get-user-age)
         user-authorized-key (user-has-permission user-age)]
